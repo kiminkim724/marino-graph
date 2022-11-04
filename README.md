@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Website that charts to show the number of people in the Northeastern Gyms at different times of the day.
