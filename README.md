@@ -1,1 +1,1 @@
-Website that charts to show the number of people in the Northeastern Gyms at different times of the day.
+Website that charts to show the number of people in the Northeastern Gyms at different times of the day. Fetches data from MongoDB through a Flask server as shown in https://github.com/kiminkim724/marino-counts
